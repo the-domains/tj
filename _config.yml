@@ -1,4 +1,5 @@
-layout_spectrum: 0.3405018
+favicon: null
+name: tj
 opengraph:
   image: null
   type: null
@@ -19,7 +20,7 @@ purpose: []
 color:
   saturation: 1
   brandStrength: 0.2558468875940889
-  lightness: 0.8709677
+  lightness: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
@@ -28,13 +29,12 @@ color:
     - '#3B28CC'
   rhythmicContrast: 0.8189964
 typography_spectrum: 0.7811022845562547
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.3405018
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: tj
+cta:
+  bucket: null
+  version: null
+  domain: null
