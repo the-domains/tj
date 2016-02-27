@@ -1,28 +1,40 @@
-name: tj
-favicon: null
-layout_spectrum: 0.9426938162650913
-typography_spectrum: 0.7811022845562547
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.3405018
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.2558468875940889
+  lightness: 0.8709677
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.2558468875940889
-  lightness: 0.25733472127467394
-  saturation: 0.15679356781765819
-  rhythmicContrast: 0.986842431826517
-purpose: []
+  rhythmicContrast: 0.8189964
+typography_spectrum: 0.7811022845562547
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: tj
